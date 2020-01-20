@@ -1,0 +1,64 @@
+.heading {
+    color: rgb(219, 212, 212);
+    background: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    margin-bottom: 80px;
+    width: 1600px;
+    height: 90px;
+    margin-left: -230px;
+}
+
+body {
+    background-image: url('jumbo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.button {
+    margin-top: -130px;
+}
+
+#signin {
+    margin-left: 1000px;
+}
+
+#signup {
+    margin-left: 1100px;
+    margin-top: -35px;
+}
+
+#logo {
+    margin-top: -30px;
+    margin-left: 10px;
+}
+
+input {
+    width: 400px;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid red;
+    padding: 6px;
+    margin-bottom: 15px;
+    color: black;
+    align-items: center;
+}
+
+.reg {
+    margin-left: 600px;
+    background: none;
+    height: 500px;
+    margin-top: -65px;
+}
+
+#reg {
+    color: brown;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.login {
+    margin-top: 100px;
+    margin-left: 600px;
+    background: none;
+    height: 200px;
+}
